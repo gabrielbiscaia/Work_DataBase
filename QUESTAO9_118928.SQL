@@ -1,0 +1,1 @@
+UPDATE LUGAR SET NOME_LUGAR = 'UEM' WHERE NOME_LUGAR = 'Escola Profissional da Biodiversidade';
